@@ -1,7 +1,6 @@
 
 # 💼 Freelancing Platform – Backend (Laravel + MySQL)
 
-```markdown
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/API-RESTful-blue?style=for-the-badge)
